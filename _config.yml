@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Nikita Kozodoi
-description: Blog on AI, ML and other cool acronyms
-github_username: kozodoi
+title: ABHISHEK SINGH
+description: ProjeKts and PaPers on AI, ML and other cool acronyms
+github_username: Abhi2april
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "website"
 
@@ -38,11 +38,11 @@ baseurl: "" # the subpath of your site, e.g. "/blog".
 
 minima:
   social_links:
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/kozodoi/" }
-    - { platform: github, user_url: "https://github.com/kozodoi" }
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=58tMuD0AAAAJ&hl=en" }
-    - { platform: twitter, user_url: "https://twitter.com/n_kozodoi" }
-    - { platform: instagram, user_url: "https://www.instagram.com/n_kozodoi/" }
+    - { platform: linkedin, user_url: "www.linkedin.com/in/abhishek-singh202220260204" }
+    - { platform: github, user_url: "https://github.com/Abhi2april" }
+    #- { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=58tMuD0AAAAJ&hl=en" }
+    #- { platform: twitter, user_url: "https://twitter.com/n_kozodoi" }
+    #- { platform: instagram, user_url: "https://www.instagram.com/n_kozodoi/" }
 
 
 # Set this to true to get LaTeX math equation support
