@@ -7,7 +7,7 @@ comments: true
 author: Abhishek Singh.
 categories: [Health-Tech, natural language processing, web app]
 image: images/posts/content.png
-cover: images/covers/content.png
+cover: https://github.com/Abhi2april/website01/blob/45fbd8c449ce2aec3344c69cec06d237fc71016a/images/covers/content.jpeg
 layout: notebook
 permalink: /blog/:year:month:day/disease-detection
 sticky_rank: 3
