@@ -4,8 +4,12 @@ title: Disease Recognizer: Predicting Illness from Symptoms
 toc: true
 badges: true
 comments: true
-author: [ABHISHEK SINGH]
-categories: [machine learning, natural language processing, health tech]
+author: 
+  - ABHISHEK SINGH
+categories: 
+  - machine learning
+  - natural language processing
+  - health tech
 image: images/posts/disease_recognizer.png
 cover: images/covers/disease_recognizer_cover.png
 layout: notebook
