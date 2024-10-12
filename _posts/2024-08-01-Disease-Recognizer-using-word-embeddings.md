@@ -1,3 +1,19 @@
+---
+description: Disease Recognizer takes what patients describe (their symptoms), converts that information into a format that computers can understand (numbers), and then uses machine learning techniques to find patterns and make predictions about the disease the patient might have .
+title: Disease Recognizer
+toc: true
+badges: true
+comments: true
+author: Abhishek Singh.
+categories: [Health-Tech, natural language processing, web app]
+image: images/posts/content.png
+cover: images/covers/content.png
+layout: notebook
+permalink: /blog/:year:month:day/disease-detection
+sticky_rank: 3
+---
+
+
 <h1>Overview</h1>
 <img src="https://github.com/user-attachments/assets/3a780226-bb0c-425a-9316-3872f465b5ad" alt="rick-and-morty-morty-smith" />
 
