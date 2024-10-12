@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://kozodoi.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kozodoi.me/" rel="alternate" type="text/html" /><updated>2024-10-12T05:23:03-05:00</updated><id>https://kozodoi.me/feed.xml</id><title type="html">ABHISHEK SINGH</title><subtitle>ProjeKts and PaPers on AI, ML and other cool acronyms</subtitle><entry><title type="html">Medical content creation in the age of generative AI</title><link href="https://kozodoi.me/blog/20240703/medical-content-generation" rel="alternate" type="text/html" title="Medical content creation in the age of generative AI" /><published>2024-07-03T00:00:00-05:00</published><updated>2024-07-03T00:00:00-05:00</updated><id>https://kozodoi.me/blog/20240703/medical-content</id><content type="html" xml:base="https://kozodoi.me/blog/20240703/medical-content-generation"><![CDATA[<p>This post was originally published on the <a href="https://aws.amazon.com/blogs/machine-learning/medical-content-creation-in-the-age-of-generative-ai/">AWS ML Blog</a></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://kozodoi.me/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kozodoi.me/" rel="alternate" type="text/html" /><updated>2024-10-12T06:07:54-05:00</updated><id>https://kozodoi.me/feed.xml</id><title type="html">ABHISHEK SINGH</title><subtitle>ProjeKts and PaPers on AI, ML and other cool acronyms</subtitle><entry><title type="html">Medical content creation in the age of generative AI</title><link href="https://kozodoi.me/blog/20240703/medical-content-generation" rel="alternate" type="text/html" title="Medical content creation in the age of generative AI" /><published>2024-07-03T00:00:00-05:00</published><updated>2024-07-03T00:00:00-05:00</updated><id>https://kozodoi.me/blog/20240703/medical-content</id><content type="html" xml:base="https://kozodoi.me/blog/20240703/medical-content-generation"><![CDATA[<p>This post was originally published on the <a href="https://aws.amazon.com/blogs/machine-learning/medical-content-creation-in-the-age-of-generative-ai/">AWS ML Blog</a></p>
 
 <h1 id="1.-Introduction">1. Introduction<a class="anchor-link" href="#1.-Introduction"> </a>
 <p>Generative AI and transformer-based large language models (LLMs) have been in the top headlines recently. These models demonstrate impressive performance in question answering, text summarization, code, and text generation. Today, LLMs are being used in real settings by companies, including the heavily-regulated healthcare and life sciences industry (HCLS). The use cases can range from medical information extraction and clinical notes summarization to marketing content generation and medical-legal review automation (MLR process). In this post, we explore how LLMs can be used to design marketing content for disease awareness.</p>
@@ -1426,231 +1426,7 @@ Each item in <code>parameters</code> becomes a dictionary with two elements:</p>
 
 <script type="application/vnd.jupyter.widget-state+json">
 {"state": {"13c1b0b60dc243baa0859d1c6bd17129": {"model_module": "@jupyter-widgets/controls", "model_module_version": "1.5.0", "model_name": "FloatProgressModel", "state": {"_dom_classes": [], "_model_module": "@jupyter-widgets/controls", "_model_module_version": "1.5.0", "_model_name": "FloatProgressModel", "_view_count": null, "_view_module": "@jupyter-widgets/controls", "_view_module_version": "1.5.0", "_view_name": "ProgressView", "bar_style": "success", "description": "100%", "description_tooltip": null, "layout": "IPY_MODEL_6ec176035b11447582886c6d337eeff6", "max": 87306240, "min": 0, "orientation": "horizontal", "style": "IPY_MODEL_b89c0127f3a94527b58b7d710c43e951", "value": 87306240}}, "149e60260f0b49268d9e6ce0c8461dce": {"model_module": "@jupyter-widgets/base", "model_module_version": "1.2.0", "model_name": "LayoutModel", "state": {"_model_module": "@jupyter-widgets/base", "_model_module_version": "1.2.0", "_model_name": "LayoutModel", "_view_count": null, "_view_module": "@jupyter-widgets/base", "_view_module_version": "1.2.0", "_view_name": "LayoutView", "align_content": null, "align_items": null, "align_self": null, "border": null, "bottom": null, "display": null, "flex": null, "flex_flow": null, "grid_area": null, "grid_auto_columns": null, "grid_auto_flow": null, "grid_auto_rows": null, "grid_column": null, "grid_gap": null, "grid_row": null, "grid_template_areas": null, "grid_template_columns": null, "grid_template_rows": null, "height": null, "justify_content": null, "justify_items": null, "left": null, "margin": null, "max_height": null, "max_width": null, "min_height": null, "min_width": null, "object_fit": null, "object_position": null, "order": null, "overflow": null, "overflow_x": null, "overflow_y": null, "padding": null, "right": null, "top": null, "visibility": null, "width": null}}, "19703cdff07249fab2d78d23d35192f3": {"model_module": "@jupyter-widgets/controls", "model_module_version": "1.5.0", "model_name": "HTMLModel", "state": {"_dom_classes": [], "_model_module": "@jupyter-widgets/controls", "_model_module_version": "1.5.0", "_model_name": "HTMLModel", "_view_count": null, "_view_module": "@jupyter-widgets/controls", "_view_module_version": "1.5.0", "_view_name": "HTMLView", "description": "", "description_tooltip": null, "layout": "IPY_MODEL_149e60260f0b49268d9e6ce0c8461dce", "placeholder": "\u200b", "style": "IPY_MODEL_68071ef4d8ad4ce782ddc9b045860848", "value": " 83.3M/83.3M [00:00&lt;00:00, 116MB/s]"}}, "44310773133f44999edfef5f5ff34fbb": {"model_module": "@jupyter-widgets/controls", "model_module_version": "1.5.0", "model_name": "HBoxModel", "state": {"_dom_classes": [], "_model_module": "@jupyter-widgets/controls", "_model_module_version": "1.5.0", "_model_name": "HBoxModel", "_view_count": null, "_view_module": "@jupyter-widgets/controls", "_view_module_version": "1.5.0", "_view_name": "HBoxView", "box_style": "", "children": ["IPY_MODEL_13c1b0b60dc243baa0859d1c6bd17129", "IPY_MODEL_19703cdff07249fab2d78d23d35192f3"], "layout": "IPY_MODEL_ef696dddbf0e4bdf851a3c08acd0a3c9"}}, "68071ef4d8ad4ce782ddc9b045860848": {"model_module": "@jupyter-widgets/controls", "model_module_version": "1.5.0", "model_name": "DescriptionStyleModel", "state": {"_model_module": "@jupyter-widgets/controls", "_model_module_version": "1.5.0", "_model_name": "DescriptionStyleModel", "_view_count": null, "_view_module": "@jupyter-widgets/base", "_view_module_version": "1.2.0", "_view_name": "StyleView", "description_width": ""}}, "6ec176035b11447582886c6d337eeff6": {"model_module": "@jupyter-widgets/base", "model_module_version": "1.2.0", "model_name": "LayoutModel", "state": {"_model_module": "@jupyter-widgets/base", "_model_module_version": "1.2.0", "_model_name": "LayoutModel", "_view_count": null, "_view_module": "@jupyter-widgets/base", "_view_module_version": "1.2.0", "_view_name": "LayoutView", "align_content": null, "align_items": null, "align_self": null, "border": null, "bottom": null, "display": null, "flex": null, "flex_flow": null, "grid_area": null, "grid_auto_columns": null, "grid_auto_flow": null, "grid_auto_rows": null, "grid_column": null, "grid_gap": null, "grid_row": null, "grid_template_areas": null, "grid_template_columns": null, "grid_template_rows": null, "height": null, "justify_content": null, "justify_items": null, "left": null, "margin": null, "max_height": null, "max_width": null, "min_height": null, "min_width": null, "object_fit": null, "object_position": null, "order": null, "overflow": null, "overflow_x": null, "overflow_y": null, "padding": null, "right": null, "top": null, "visibility": null, "width": null}}, "b89c0127f3a94527b58b7d710c43e951": {"model_module": "@jupyter-widgets/controls", "model_module_version": "1.5.0", "model_name": "ProgressStyleModel", "state": {"_model_module": "@jupyter-widgets/controls", "_model_module_version": "1.5.0", "_model_name": "ProgressStyleModel", "_view_count": null, "_view_module": "@jupyter-widgets/base", "_view_module_version": "1.2.0", "_view_name": "StyleView", "bar_color": null, "description_width": "initial"}}, "ef696dddbf0e4bdf851a3c08acd0a3c9": {"model_module": "@jupyter-widgets/base", "model_module_version": "1.2.0", "model_name": "LayoutModel", "state": {"_model_module": "@jupyter-widgets/base", "_model_module_version": "1.2.0", "_model_name": "LayoutModel", "_view_count": null, "_view_module": "@jupyter-widgets/base", "_view_module_version": "1.2.0", "_view_name": "LayoutView", "align_content": null, "align_items": null, "align_self": null, "border": null, "bottom": null, "display": null, "flex": null, "flex_flow": null, "grid_area": null, "grid_auto_columns": null, "grid_auto_flow": null, "grid_auto_rows": null, "grid_column": null, "grid_gap": null, "grid_row": null, "grid_template_areas": null, "grid_template_columns": null, "grid_template_rows": null, "height": null, "justify_content": null, "justify_items": null, "left": null, "margin": null, "max_height": null, "max_width": null, "min_height": null, "min_width": null, "object_fit": null, "object_position": null, "order": null, "overflow": null, "overflow_x": null, "overflow_y": null, "padding": null, "right": null, "top": null, "visibility": null, "width": null}}}, "version_major": 2, "version_minor": 0}
-</script>]]></content><author><name>Nikita Kozodoi</name></author><category term="python" /><category term="deep learning" /><category term="pytorch" /><category term="tutorial" /><summary type="html"><![CDATA[Implementing discriminative learning rate across model layers]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kozodoi.me/images/posts/lr.png" /><media:content medium="image" url="https://kozodoi.me/images/posts/lr.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Estimating Text Readability with Transformers</title><link href="https://kozodoi.me/blog/20211121/text-readability" rel="alternate" type="text/html" title="Estimating Text Readability with Transformers" /><published>2021-11-21T00:00:00-06:00</published><updated>2021-11-21T00:00:00-06:00</updated><id>https://kozodoi.me/blog/20211121/text-readability</id><content type="html" xml:base="https://kozodoi.me/blog/20211121/text-readability"><![CDATA[<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p><em>Last update: 21.11.2021. All opinions are my own.</em></p>
-
-<h1 id="1.-Overview">1. Overview<a class="anchor-link" href="#1.-Overview"> </a></h1>
-
-<p>Estimating text complexity and readability is a crucial task for teachers. Offering students text passages at the right level of challenge is important for facilitating a fast development of reading skills. The existing tools to estimate readability rely on weak proxies and heuristics. Deep learning may help to improve the accuracy of the used text complexity scores.</p>
-<p>This blog post overviews <a href="https://kozodoi-text-readability-prediction-web-app-ddrfmw.streamlit.app">an interactive web app</a> that estimates reading complexity of a custom text with deep learning. The app relies on transformer models that are part of my top-9% solution to the <a href="https://www.kaggle.com/c/commonlitreadabilityprize">CommonLit Readability Prize</a> Kaggle competition. The app is built in Python and deployed in Streamlit. The blog post provides a demo of the app and includes a summary of the modeling pipeline and the app implementation. </p>
-</div>
-</div>
-</div>
-
-<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="2.-App-demo">2. App demo<a class="anchor-link" href="#2.-App-demo"></a></h1>
-<p>You can open the app by clicking on <a href="https://kozodoi-text-readability-prediction-web-app-ddrfmw.streamlit.app">this link</a>. Alternatively, just scroll down to see the app embedded in this blog post. If the embedded version does not load, please open the app <a href="https://kozodoi-text-readability-prediction-web-app-ddrfmw.streamlit.app">in a new tab</a>. Feel free to play around with the app by typing or pasting custom texts and estimating their complexity with different models! Scroll further down to read some details on the app and the underlying models.</p>
-</div>
-</div>
-</div>
-
-<iframe src="https://kozodoi-text-readability-prediction-web-app-ddrfmw.streamlit.app/?embed=true" border="0" width="100%" frameborder="1" height="1200" allowtransparency="false">
-</iframe>
-
-<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="3.-Implementation">3. Implementation<a class="anchor-link" href="#3.-Implementation"></a></h1>
-<h2 id="3.1.-Modeling-pipeline">3.1. Modeling pipeline<a class="anchor-link" href="#3.1.-Modeling-pipeline"></a></h2>
-<p>The app is developed in the scope of the <a href="https://www.kaggle.com/c/commonlitreadabilityprize">CommonLit Readability Prize</a> Kaggle competition on text complexity prediction. My solution is an ensemble of eight transformer models, including variants of BERT, RoBERTa and other architectures. All transformers are implemented in <code>PyTorch</code> and feature a custom regression head that uses a concatenated output of multiple hidden layers. </p>
-<p>The project uses pre-trained transformer weights published on the <a href="https://huggingface.co/models">HuggingFace model hub</a>. Each model is then fine-tuned on a data set with 2834 text snippets, where readability of each snippet was evaluated by human experts. To avoid overfitting, fine-tuning relies on text augmentations such as sentence order shuffle, backtranslation and injecting target noise in the readability scores.</p>
-<p>Each transformer model is fine-tuned using five-fold cross-validation repeated three times with different random splits. <a href="https://github.com/kozodoi/Text_Readability_Prediction">This GitHub repo</a> provides the source code and documentation for the modeling pipeline. The table below summarizes the main architecture and training parameters.</p>
-<p><img src="https://i.postimg.cc/JnY0HdWQ/read-params.jpg" alt="Models" /></p>
-<p>The ensemble of eight transformer models places in the top-9% of the Kaggle competition leaderboard. The web app only includes two lightweight models from a single fold to ensure fast inference on CPU: DistilBERT and DistilRoBERTa.</p>
-
-
-<h2 id="3.2.-App-implementation">3.2. App implementation<a class="anchor-link" href="#3.2.-App-implementation"></a></h2>
-<p>The app is built in Python using the Streamlit library. Streamlit allows implementing a web app in a single Python code file and deploying the app to the cloud server so that anyone with the Internet access can check it out.</p>
-<p>The app code is provided in <code>web_app.py</code> located in the root folder of the project <a href="https://github.com/kozodoi/Text_Readability_Prediction">GitHub repo</a>. The app is hosted on a virtual machine provided by Streamlit, which includes the list of dependencies specified in <code>requirements.txt</code>. It also imports some helper functions used within the modeling pipeline for text preprocessing and model initialization. </p>
-<p>The app works by downloading weights of the selected transformer model to the virtual machine after a user selects which model to use for text readability prediction. The weights of each model are made available as <a href="https://github.com/kozodoi/Text_Readability_Prediction/releases/tag/0e96d53">release files</a> on GitHub. After downloading the weights, the app transforms the text entered by a user into the token sequence with the tokenizer that uses text processing settings specified in the model configuration file. Next, the app runs a single forward pass through the initialized transformer network and displays the output prediction.</p>
-<p>The snippet below provides the app source code. The code imports relevant Python modules and configures the app page. Next, it provides functionality for entering the custom text and selecting the NLP model. Finally, the code includes the inference function and some further documentation. </p>
-
-</div>
-</div>
-</div>
-
-<div class="cell border-box-sizing code_cell rendered">
-<details class="description" open="">
-      <summary class="btn btn-sm" data-open="Hide Code" data-close="Show Code"></summary>
-        <p><div class="input">
-
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#collapse-show</span>
-
-<span class="c1">##### PREPARATIONS</span>
-
-<span class="c1"># libraries</span>
-<span class="kn">import</span> <span class="nn">gc</span>
-<span class="kn">import</span> <span class="nn">os</span>
-<span class="kn">import</span> <span class="nn">pickle</span>
-<span class="kn">import</span> <span class="nn">sys</span>
-<span class="kn">import</span> <span class="nn">urllib.request</span>
-<span class="kn">import</span> <span class="nn">requests</span>
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
-<span class="kn">import</span> <span class="nn">streamlit</span> <span class="k">as</span> <span class="nn">st</span>
-<span class="kn">from</span> <span class="nn">PIL</span> <span class="kn">import</span> <span class="n">Image</span>
-
-<span class="c1"># custom libraries</span>
-<span class="n">sys</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s1">&#39;code&#39;</span><span class="p">)</span>
-<span class="kn">from</span> <span class="nn">model</span> <span class="kn">import</span> <span class="n">get_model</span>
-<span class="kn">from</span> <span class="nn">tokenizer</span> <span class="kn">import</span> <span class="n">get_tokenizer</span>
-
-<span class="c1"># download with progress bar</span>
-<span class="n">mybar</span> <span class="o">=</span> <span class="kc">None</span>
-<span class="k">def</span> <span class="nf">show_progress</span><span class="p">(</span><span class="n">block_num</span><span class="p">,</span> <span class="n">block_size</span><span class="p">,</span> <span class="n">total_size</span><span class="p">):</span>
-    <span class="k">global</span> <span class="n">mybar</span>
-    <span class="k">if</span> <span class="n">mybar</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
-        <span class="n">mybar</span> <span class="o">=</span> <span class="n">st</span><span class="o">.</span><span class="n">progress</span><span class="p">(</span><span class="mf">0.0</span><span class="p">)</span>
-    <span class="n">downloaded</span> <span class="o">=</span> <span class="n">block_num</span> <span class="o">*</span> <span class="n">block_size</span> <span class="o">/</span> <span class="n">total_size</span>
-    <span class="k">if</span> <span class="n">downloaded</span> <span class="o">&lt;=</span> <span class="mf">1.0</span><span class="p">:</span>
-        <span class="n">mybar</span><span class="o">.</span><span class="n">progress</span><span class="p">(</span><span class="n">downloaded</span><span class="p">)</span>
-    <span class="k">else</span><span class="p">:</span>
-        <span class="n">mybar</span><span class="o">.</span><span class="n">progress</span><span class="p">(</span><span class="mf">1.0</span><span class="p">)</span>
-
-<span class="c1"># page config</span>
-<span class="n">st</span><span class="o">.</span><span class="n">set_page_config</span><span class="p">(</span><span class="n">page_title</span>            <span class="o">=</span> <span class="s2">&quot;Readability prediction&quot;</span><span class="p">,</span>
-                   <span class="n">page_icon</span>             <span class="o">=</span> <span class="s2">&quot;:books:&quot;</span><span class="p">,</span>
-                   <span class="n">layout</span>                <span class="o">=</span> <span class="s2">&quot;centered&quot;</span><span class="p">,</span>
-                   <span class="n">initial_sidebar_state</span> <span class="o">=</span> <span class="s2">&quot;collapsed&quot;</span><span class="p">,</span>
-                   <span class="n">menu_items</span>            <span class="o">=</span> <span class="kc">None</span><span class="p">)</span>
-
-
-<span class="c1">##### HEADER</span>
-
-<span class="c1"># title</span>
-<span class="n">st</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">&#39;Text readability prediction&#39;</span><span class="p">)</span>
-
-<span class="c1"># image cover</span>
-<span class="n">image</span> <span class="o">=</span> <span class="n">Image</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="n">requests</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;https://i.postimg.cc/hv6yfMYz/cover-books.jpg&#39;</span><span class="p">,</span> <span class="n">stream</span> <span class="o">=</span> <span class="kc">True</span><span class="p">)</span><span class="o">.</span><span class="n">raw</span><span class="p">)</span>
-<span class="n">st</span><span class="o">.</span><span class="n">image</span><span class="p">(</span><span class="n">image</span><span class="p">)</span>
-
-<span class="c1"># description</span>
-<span class="n">st</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="s1">&#39;This app uses deep learning to estimate the reading complexity of a custom text. Enter your text below, and we will run it through one of the two transfomer models and display the result.&#39;</span><span class="p">)</span>
-
-
-<span class="c1">##### PARAMETERS</span>
-
-<span class="c1"># title</span>
-<span class="n">st</span><span class="o">.</span><span class="n">header</span><span class="p">(</span><span class="s1">&#39;How readable is your text?&#39;</span><span class="p">)</span>
-
-<span class="c1"># model selection</span>
-<span class="n">model_name</span> <span class="o">=</span> <span class="n">st</span><span class="o">.</span><span class="n">selectbox</span><span class="p">(</span>
-    <span class="s1">&#39;Which model would you like to use?&#39;</span><span class="p">,</span>
-     <span class="p">[</span><span class="s1">&#39;DistilBERT&#39;</span><span class="p">,</span> <span class="s1">&#39;DistilRoBERTa&#39;</span><span class="p">])</span>
-
-<span class="c1"># input text</span>
-<span class="n">input_text</span> <span class="o">=</span> <span class="n">st</span><span class="o">.</span><span class="n">text_area</span><span class="p">(</span><span class="s1">&#39;Which text would you like to rate?&#39;</span><span class="p">,</span> <span class="s1">&#39;Please enter the text in this field.&#39;</span><span class="p">)</span>
-
-
-<span class="c1">##### MODELING</span>
-
-<span class="c1"># compute readability</span>
-<span class="k">if</span> <span class="n">st</span><span class="o">.</span><span class="n">button</span><span class="p">(</span><span class="s1">&#39;Compute readability&#39;</span><span class="p">):</span>
-
-    <span class="c1"># specify paths</span>
-    <span class="k">if</span> <span class="n">model_name</span> <span class="o">==</span> <span class="s1">&#39;DistilBERT&#39;</span><span class="p">:</span>
-        <span class="n">folder_path</span> <span class="o">=</span> <span class="s1">&#39;output/v59/&#39;</span>
-        <span class="n">weight_path</span> <span class="o">=</span> <span class="s1">&#39;https://github.com/kozodoi/Kaggle_Readability/releases/download/0e96d53/weights_v59.pth&#39;</span>
-    <span class="k">elif</span> <span class="n">model_name</span> <span class="o">==</span> <span class="s1">&#39;DistilRoBERTa&#39;</span><span class="p">:</span>
-        <span class="n">folder_path</span> <span class="o">=</span> <span class="s1">&#39;output/v47/&#39;</span>
-        <span class="n">weight_path</span> <span class="o">=</span> <span class="s1">&#39;https://github.com/kozodoi/Kaggle_Readability/releases/download/0e96d53/weights_v47.pth&#39;</span>
-
-    <span class="c1"># download model weights</span>
-    <span class="k">if</span> <span class="ow">not</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">isfile</span><span class="p">(</span><span class="n">folder_path</span> <span class="o">+</span> <span class="s1">&#39;pytorch_model.bin&#39;</span><span class="p">):</span>
-        <span class="k">with</span> <span class="n">st</span><span class="o">.</span><span class="n">spinner</span><span class="p">(</span><span class="s1">&#39;Downloading model weights. This is done once and can take a minute...&#39;</span><span class="p">):</span>
-            <span class="n">urllib</span><span class="o">.</span><span class="n">request</span><span class="o">.</span><span class="n">urlretrieve</span><span class="p">(</span><span class="n">weight_path</span><span class="p">,</span> <span class="n">folder_path</span> <span class="o">+</span> <span class="s1">&#39;pytorch_model.bin&#39;</span><span class="p">,</span> <span class="n">show_progress</span><span class="p">)</span>
-
-    <span class="c1"># compute predictions</span>
-    <span class="k">with</span> <span class="n">st</span><span class="o">.</span><span class="n">spinner</span><span class="p">(</span><span class="s1">&#39;Computing prediction...&#39;</span><span class="p">):</span>
-
-        <span class="c1"># clear memory</span>
-        <span class="n">gc</span><span class="o">.</span><span class="n">collect</span><span class="p">()</span>
-
-        <span class="c1"># load config</span>
-        <span class="n">config</span> <span class="o">=</span> <span class="n">pickle</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="nb">open</span><span class="p">(</span><span class="n">folder_path</span> <span class="o">+</span> <span class="s1">&#39;configuration.pkl&#39;</span><span class="p">,</span> <span class="s1">&#39;rb&#39;</span><span class="p">))</span>
-        <span class="n">config</span><span class="p">[</span><span class="s1">&#39;backbone&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">folder_path</span>
-
-        <span class="c1"># initialize model</span>
-        <span class="n">model</span> <span class="o">=</span> <span class="n">get_model</span><span class="p">(</span><span class="n">config</span><span class="p">,</span> <span class="n">name</span> <span class="o">=</span> <span class="n">model_name</span><span class="o">.</span><span class="n">lower</span><span class="p">(),</span> <span class="n">pretrained</span> <span class="o">=</span> <span class="n">folder_path</span> <span class="o">+</span> <span class="s1">&#39;pytorch_model.bin&#39;</span><span class="p">)</span>
-        <span class="n">model</span><span class="o">.</span><span class="n">eval</span><span class="p">()</span>
-
-        <span class="c1"># load tokenizer</span>
-        <span class="n">tokenizer</span> <span class="o">=</span> <span class="n">get_tokenizer</span><span class="p">(</span><span class="n">config</span><span class="p">)</span>
-
-        <span class="c1"># tokenize text</span>
-        <span class="n">text</span> <span class="o">=</span> <span class="n">tokenizer</span><span class="p">(</span><span class="n">text</span>                  <span class="o">=</span> <span class="n">input_text</span><span class="p">,</span>
-                         <span class="n">truncation</span>            <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>
-                         <span class="n">add_special_tokens</span>    <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>
-                         <span class="n">max_length</span>            <span class="o">=</span> <span class="n">config</span><span class="p">[</span><span class="s1">&#39;max_len&#39;</span><span class="p">],</span>
-                         <span class="n">padding</span>               <span class="o">=</span> <span class="kc">False</span><span class="p">,</span>
-                         <span class="n">return_token_type_ids</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>
-                         <span class="n">return_attention_mask</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span>
-                         <span class="n">return_tensors</span>        <span class="o">=</span> <span class="s1">&#39;pt&#39;</span><span class="p">)</span>
-        <span class="n">inputs</span><span class="p">,</span> <span class="n">masks</span><span class="p">,</span> <span class="n">token_type_ids</span> <span class="o">=</span> <span class="n">text</span><span class="p">[</span><span class="s1">&#39;input_ids&#39;</span><span class="p">],</span> <span class="n">text</span><span class="p">[</span><span class="s1">&#39;attention_mask&#39;</span><span class="p">],</span> <span class="n">text</span><span class="p">[</span><span class="s1">&#39;token_type_ids&#39;</span><span class="p">]</span>
-
-        <span class="c1"># clear memory</span>
-        <span class="k">del</span> <span class="n">tokenizer</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">config</span>
-        <span class="n">gc</span><span class="o">.</span><span class="n">collect</span><span class="p">()</span>
-
-        <span class="c1"># compute prediction</span>
-        <span class="k">if</span> <span class="n">input_text</span> <span class="o">!=</span> <span class="s1">&#39;&#39;</span><span class="p">:</span>
-            <span class="n">prediction</span> <span class="o">=</span> <span class="n">model</span><span class="p">(</span><span class="n">inputs</span><span class="p">,</span> <span class="n">masks</span><span class="p">,</span> <span class="n">token_type_ids</span><span class="p">)</span>
-            <span class="n">prediction</span> <span class="o">=</span> <span class="n">prediction</span><span class="p">[</span><span class="s1">&#39;logits&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">detach</span><span class="p">()</span><span class="o">.</span><span class="n">numpy</span><span class="p">()[</span><span class="mi">0</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
-            <span class="n">prediction</span> <span class="o">=</span> <span class="mi">100</span> <span class="o">*</span> <span class="p">(</span><span class="n">prediction</span> <span class="o">+</span> <span class="mi">4</span><span class="p">)</span> <span class="o">/</span> <span class="mi">6</span> <span class="c1"># scale to [0,100]</span>
-
-        <span class="c1"># clear memory</span>
-        <span class="k">del</span> <span class="n">model</span><span class="p">,</span> <span class="n">inputs</span><span class="p">,</span> <span class="n">masks</span><span class="p">,</span> <span class="n">token_type_ids</span>
-        <span class="n">gc</span><span class="o">.</span><span class="n">collect</span><span class="p">()</span>
-
-        <span class="c1"># print output</span>
-        <span class="n">st</span><span class="o">.</span><span class="n">metric</span><span class="p">(</span><span class="s1">&#39;Readability score:&#39;</span><span class="p">,</span> <span class="s1">&#39;</span><span class="si">{:.2f}</span><span class="s1">%&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">prediction</span><span class="p">,</span> <span class="mi">2</span><span class="p">))</span>
-        <span class="n">st</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="s1">&#39;**Note:** readability scores are scaled to [0, 100%]. A higher score means that the text is easier to read.&#39;</span><span class="p">)</span>
-        <span class="n">st</span><span class="o">.</span><span class="n">success</span><span class="p">(</span><span class="s1">&#39;Success! Thanks for scoring your text :)&#39;</span><span class="p">)</span>
-
-
-<span class="c1">##### DOCUMENTATION</span>
-
-<span class="c1"># header</span>
-<span class="n">st</span><span class="o">.</span><span class="n">header</span><span class="p">(</span><span class="s1">&#39;More information&#39;</span><span class="p">)</span>
-
-<span class="c1"># example texts</span>
-<span class="k">with</span> <span class="n">st</span><span class="o">.</span><span class="n">expander</span><span class="p">(</span><span class="s1">&#39;Show example texts&#39;</span><span class="p">):</span>
-    <span class="n">st</span><span class="o">.</span><span class="n">table</span><span class="p">(</span><span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">({</span>
-        <span class="s1">&#39;Text&#39;</span><span class="p">:</span>  <span class="p">[</span><span class="s1">&#39;A dog sits on the floor. A cat sleeps on the sofa.&#39;</span><span class="p">,</span>  <span class="s1">&#39;This app does text readability prediction. How cool is that?&#39;</span><span class="p">,</span> <span class="s1">&#39;Training of deep bidirectional transformers for language understanding.&#39;</span><span class="p">],</span>
-        <span class="s1">&#39;Score&#39;</span><span class="p">:</span> <span class="p">[</span><span class="mf">1.5571</span><span class="p">,</span> <span class="o">-</span><span class="mf">0.0100</span><span class="p">,</span> <span class="o">-</span><span class="mf">2.4025</span><span class="p">],</span>
-    <span class="p">}))</span>
-
-<span class="c1"># models</span>
-<span class="k">with</span> <span class="n">st</span><span class="o">.</span><span class="n">expander</span><span class="p">(</span><span class="s1">&#39;Read about the models&#39;</span><span class="p">):</span>
-    <span class="n">st</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="s2">&quot;Both transformer models are part of my top-9</span><span class="si">% s</span><span class="s2">olution to the CommonLit Readability Kaggle competition. The pre-trained language models are fine-tuned on 2834 text snippets. [Click here](https://github.com/kozodoi/Kaggle_Readability) to see the source code and read more about the training pipeline.&quot;</span><span class="p">)</span>
-
-<span class="c1"># metric</span>
-<span class="k">with</span> <span class="n">st</span><span class="o">.</span><span class="n">expander</span><span class="p">(</span><span class="s1">&#39;Read about the metric&#39;</span><span class="p">):</span>
-    <span class="n">st</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="s2">&quot;The readability metric is calculated on the basis of a Bradley-Terry analysis of more than 111,000 pairwise comparisons between excerpts. Teachers spanning grades 3-12 (a majority teaching between grades 6-10) served as the raters for these comparisons. More details on the used reading complexity metric are available [here](https://www.kaggle.com/c/commonlitreadabilityprize/discussion/240886).&quot;</span><span class="p">)</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-</p>
-    </details>
-</div>
-
-<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="4.-Closing-words">4. Closing words<a class="anchor-link" href="#4.-Closing-words"></a></h1>
-<p>This blog post provided a demo of an interactive web app that uses deep learning to estimate text reading complexity. I hope you found the app interesting and enjoyed playing with it!</p>
-<p>If you have any data science projects in your portfolio, I highly encourage you to try developing a similar app yourself. There are many things you could demonstrate, ranging from interactive EDA dashboards to inference calls to custom ML models. Streamlit makes this process very simple and allows hosting the app in the cloud. Happy learning!</p>
-</div>
-</div>
-</div>]]></content><author><name>Nikita Kozodoi</name></author><category term="deep learning" /><category term="natural language processing" /><category term="web app" /><summary type="html"><![CDATA[ML solution and web app for predicting reading complexity of your texts]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kozodoi.me/images/posts/readability.png" /><media:content medium="image" url="https://kozodoi.me/images/posts/readability.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Test-Time Augmentation for Tabular Data</title><link href="https://kozodoi.me/blog/20210908/tta-tabular" rel="alternate" type="text/html" title="Test-Time Augmentation for Tabular Data" /><published>2021-09-08T00:00:00-05:00</published><updated>2021-09-08T00:00:00-05:00</updated><id>https://kozodoi.me/blog/20210908/tta-tabular</id><content type="html" xml:base="https://kozodoi.me/blog/20210908/tta-tabular"><![CDATA[<!--
+</script>]]></content><author><name>Nikita Kozodoi</name></author><category term="python" /><category term="deep learning" /><category term="pytorch" /><category term="tutorial" /><summary type="html"><![CDATA[Implementing discriminative learning rate across model layers]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kozodoi.me/images/posts/lr.png" /><media:content medium="image" url="https://kozodoi.me/images/posts/lr.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Test-Time Augmentation for Tabular Data</title><link href="https://kozodoi.me/blog/20210908/tta-tabular" rel="alternate" type="text/html" title="Test-Time Augmentation for Tabular Data" /><published>2021-09-08T00:00:00-05:00</published><updated>2021-09-08T00:00:00-05:00</updated><id>https://kozodoi.me/blog/20210908/tta-tabular</id><content type="html" xml:base="https://kozodoi.me/blog/20210908/tta-tabular"><![CDATA[<!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -3503,4 +3279,158 @@ std:  tensor([0.2330, 0.2358, 0.2247])
 </div>
 </div>
 </div>
-</div>]]></content><author><name>Nikita Kozodoi</name></author><category term="python" /><category term="deep learning" /><category term="pytorch" /><category term="tutorial" /><summary type="html"><![CDATA[How to get channel-speicific mean and std in PyTorch]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kozodoi.me/images/posts/stats.png" /><media:content medium="image" url="https://kozodoi.me/images/posts/stats.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</div>]]></content><author><name>Nikita Kozodoi</name></author><category term="python" /><category term="deep learning" /><category term="pytorch" /><category term="tutorial" /><summary type="html"><![CDATA[How to get channel-speicific mean and std in PyTorch]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kozodoi.me/images/posts/stats.png" /><media:content medium="image" url="https://kozodoi.me/images/posts/stats.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gradient Accumulation in PyTorch</title><link href="https://kozodoi.me/blog/20210219/gradient-accumulation" rel="alternate" type="text/html" title="Gradient Accumulation in PyTorch" /><published>2021-02-19T00:00:00-06:00</published><updated>2021-02-19T00:00:00-06:00</updated><id>https://kozodoi.me/blog/20210219/gradient-accumulation</id><content type="html" xml:base="https://kozodoi.me/blog/20210219/gradient-accumulation"><![CDATA[<!--
+#################################################
+### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
+#################################################
+# file to edit: _notebooks/2021-02-19-gradient-accumulation.ipynb
+-->
+
+<div class="container" id="notebook-container">
+        
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><em>Last update: 15.10.2021. All opinions are my own.</em></p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="1.-Overview">1. Overview<a class="anchor-link" href="#1.-Overview"> </a></h1><p>Deep learning models are getting bigger and bigger. It becomes difficult to fit such networks in the GPU memory. This is especially relevant in computer vision applications where we need to reserve some memory for high-resolution images as well. As a result, we are sometimes forced to use small batches during training, which may lead to a slower convergence and lower accuracy.</p>
+<p>This blog post provides a quick tutorial on how to increase the effective batch size by using a trick called gradient accumulation. Simply speaking, gradient accumulation means that we will use a small batch size but save the gradients and update network weights once every couple of batches. Automated solutions for this exist in higher-level frameworks such as <code>fast.ai</code> or <code>lightning</code>, but those who love using <code>PyTorch</code> might find this tutorial useful.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="2.-What-is-gradient-accumulation">2. What is gradient accumulation<a class="anchor-link" href="#2.-What-is-gradient-accumulation"> </a></h1><p>When training a neural network, we usually divide our data in mini-batches and go through them one by one. The network predicts batch labels, which are used to compute the loss with respect to the actual targets. Next, we perform backward pass to compute gradients and update model weights in the direction of those gradients.</p>
+<p>Gradient accumulation modifies the last step of the training process. Instead of updating the network weights on every batch, we can save gradient values, proceed to the next batch and add up the new gradients. The weight update is then done only after several batches have been processed by the model.</p>
+<p>Gradient accumulation helps to imitate a larger batch size. Imagine you want to use 32 images in one batch, but your hardware crashes once you go beyond 8. In that case, you can use batches of 8 images and update weights once every 4 batches. If you accumulate gradients from every batch in between, the results will be (almost) the same and you will be able to perform training on a less expensive machine!</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="3.-How-to-make-it-work">3. How to make it work<a class="anchor-link" href="#3.-How-to-make-it-work"> </a></h1><p>The implementation of gradient accumulation is rather straightforward. The standard training loop without accumulation usually looks like this:</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># loop through batches</span>
+<span class="k">for</span> <span class="n">inputs</span><span class="p">,</span> <span class="n">labels</span> <span class="ow">in</span> <span class="n">data_loader</span><span class="p">:</span>
+    <span class="c1"># extract inputs and labels</span>
+    <span class="n">inputs</span> <span class="o">=</span> <span class="n">inputs</span><span class="o">.</span><span class="n">to</span><span class="p">(</span><span class="n">device</span><span class="p">)</span>
+    <span class="n">labels</span> <span class="o">=</span> <span class="n">labels</span><span class="o">.</span><span class="n">to</span><span class="p">(</span><span class="n">device</span><span class="p">)</span>
+
+    <span class="c1"># passes and weights update</span>
+    <span class="k">with</span> <span class="n">torch</span><span class="o">.</span><span class="n">set_grad_enabled</span><span class="p">(</span><span class="kc">True</span><span class="p">):</span>
+        <span class="c1"># forward pass</span>
+        <span class="n">preds</span> <span class="o">=</span> <span class="n">model</span><span class="p">(</span><span class="n">inputs</span><span class="p">)</span>
+        <span class="n">loss</span> <span class="o">=</span> <span class="n">criterion</span><span class="p">(</span><span class="n">preds</span><span class="p">,</span> <span class="n">labels</span><span class="p">)</span>
+
+        <span class="c1"># backward pass</span>
+        <span class="n">loss</span><span class="o">.</span><span class="n">backward</span><span class="p">()</span>
+
+        <span class="c1"># weights update</span>
+        <span class="n">optimizer</span><span class="o">.</span><span class="n">step</span><span class="p">()</span>
+        <span class="n">optimizer</span><span class="o">.</span><span class="n">zero_grad</span><span class="p">()</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Now let's implement gradient accumulation! There are three things we need to do:</p>
+<ol>
+<li>Specify the <code>accum_iter</code> parameter. This is just an integer value indicating once in how many batches we would like to update the network weights.</li>
+<li>Condition the weight update on the index of the running batch. This requires using <code>enumerate(data_loader)</code> to store the batch index when looping through the data.</li>
+<li>Divide the running loss by <code>acum_iter</code>. This normalizes the loss to reduce the contribution of each mini-batch we are actually processing. Depending on the way you compute the loss, you might not need this step: if you average loss within each batch, the division is already correct and there is no need for extra normalization.</li>
+</ol>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># batch accumulation parameter</span>
+<span class="n">accum_iter</span> <span class="o">=</span> <span class="mi">4</span>
+
+<span class="c1"># loop through enumaretad batches</span>
+<span class="k">for</span> <span class="n">batch_idx</span><span class="p">,</span> <span class="p">(</span><span class="n">inputs</span><span class="p">,</span> <span class="n">labels</span><span class="p">)</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">data_loader</span><span class="p">):</span>
+    <span class="c1"># extract inputs and labels</span>
+    <span class="n">inputs</span> <span class="o">=</span> <span class="n">inputs</span><span class="o">.</span><span class="n">to</span><span class="p">(</span><span class="n">device</span><span class="p">)</span>
+    <span class="n">labels</span> <span class="o">=</span> <span class="n">labels</span><span class="o">.</span><span class="n">to</span><span class="p">(</span><span class="n">device</span><span class="p">)</span>
+
+    <span class="c1"># passes and weights update</span>
+    <span class="k">with</span> <span class="n">torch</span><span class="o">.</span><span class="n">set_grad_enabled</span><span class="p">(</span><span class="kc">True</span><span class="p">):</span>
+        <span class="c1"># forward pass</span>
+        <span class="n">preds</span> <span class="o">=</span> <span class="n">model</span><span class="p">(</span><span class="n">inputs</span><span class="p">)</span>
+        <span class="n">loss</span> <span class="o">=</span> <span class="n">criterion</span><span class="p">(</span><span class="n">preds</span><span class="p">,</span> <span class="n">labels</span><span class="p">)</span>
+
+        <span class="c1"># normalize loss to account for batch accumulation</span>
+        <span class="n">loss</span> <span class="o">=</span> <span class="n">loss</span> <span class="o">/</span> <span class="n">accum_iter</span>
+
+        <span class="c1"># backward pass</span>
+        <span class="n">loss</span><span class="o">.</span><span class="n">backward</span><span class="p">()</span>
+
+        <span class="c1"># weights update</span>
+        <span class="k">if</span> <span class="p">((</span><span class="n">batch_idx</span> <span class="o">+</span> <span class="mi">1</span><span class="p">)</span> <span class="o">%</span> <span class="n">accum_iter</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="ow">or</span> <span class="p">(</span><span class="n">batch_idx</span> <span class="o">+</span> <span class="mi">1</span> <span class="o">==</span> <span class="nb">len</span><span class="p">(</span><span class="n">data_loader</span><span class="p">)):</span>
+            <span class="n">optimizer</span><span class="o">.</span><span class="n">step</span><span class="p">()</span>
+            <span class="n">optimizer</span><span class="o">.</span><span class="n">zero_grad</span><span class="p">()</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>It is really that simple! The gradients are computed when we call <code>loss.backward()</code> and are stored by PyTorch until we call <code>optimizer.zero_grad()</code>. Therefore, we just need to move the weight update performed in <code>optimizer.step()</code> and the gradient reset under the <code>if</code> condition that check the batch index. It is important to also update weights on the last batch when <code>batch_idx + 1 == len(data_loader)</code> - this makes sure that data from the last batches are not discarded and used for optimizing the network.</p>
+<p>Please also note that some network architectures have batch-specific operations. For instance, batch normalization is performed on a batch level and therefore may yield slightly different results when using the same effective batch size with and without gradient accumulation. This means that you should not expect to see a 100% match between the results.</p>
+<p>In my experience, the potential performance gains from increasing the number of cases used to update the network weights are largest when one is forced to use very small batches (e.g., 8 or 10). Therefore, I always recommend using gradient accumulation when working with large architectures that consume a lof of GPU memory.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="4.-Closing-words">4. Closing words<a class="anchor-link" href="#4.-Closing-words"> </a></h1><p>This is it! I hope this brief tutorial helps you to finally fit that model on your machine and train it with the batch size it deserves. If you are interested, check out my other blog posts on tips on deep learning and <code>PyTorch</code>. Happy learning!</p>
+
+</div>
+</div>
+</div>
+</div>
+
+<script type="application/vnd.jupyter.widget-state+json">
+{"state": {"13c1b0b60dc243baa0859d1c6bd17129": {"model_module": "@jupyter-widgets/controls", "model_module_version": "1.5.0", "model_name": "FloatProgressModel", "state": {"_dom_classes": [], "_model_module": "@jupyter-widgets/controls", "_model_module_version": "1.5.0", "_model_name": "FloatProgressModel", "_view_count": null, "_view_module": "@jupyter-widgets/controls", "_view_module_version": "1.5.0", "_view_name": "ProgressView", "bar_style": "success", "description": "100%", "description_tooltip": null, "layout": "IPY_MODEL_6ec176035b11447582886c6d337eeff6", "max": 87306240, "min": 0, "orientation": "horizontal", "style": "IPY_MODEL_b89c0127f3a94527b58b7d710c43e951", "value": 87306240}}, "149e60260f0b49268d9e6ce0c8461dce": {"model_module": "@jupyter-widgets/base", "model_module_version": "1.2.0", "model_name": "LayoutModel", "state": {"_model_module": "@jupyter-widgets/base", "_model_module_version": "1.2.0", "_model_name": "LayoutModel", "_view_count": null, "_view_module": "@jupyter-widgets/base", "_view_module_version": "1.2.0", "_view_name": "LayoutView", "align_content": null, "align_items": null, "align_self": null, "border": null, "bottom": null, "display": null, "flex": null, "flex_flow": null, "grid_area": null, "grid_auto_columns": null, "grid_auto_flow": null, "grid_auto_rows": null, "grid_column": null, "grid_gap": null, "grid_row": null, "grid_template_areas": null, "grid_template_columns": null, "grid_template_rows": null, "height": null, "justify_content": null, "justify_items": null, "left": null, "margin": null, "max_height": null, "max_width": null, "min_height": null, "min_width": null, "object_fit": null, "object_position": null, "order": null, "overflow": null, "overflow_x": null, "overflow_y": null, "padding": null, "right": null, "top": null, "visibility": null, "width": null}}, "19703cdff07249fab2d78d23d35192f3": {"model_module": "@jupyter-widgets/controls", "model_module_version": "1.5.0", "model_name": "HTMLModel", "state": {"_dom_classes": [], "_model_module": "@jupyter-widgets/controls", "_model_module_version": "1.5.0", "_model_name": "HTMLModel", "_view_count": null, "_view_module": "@jupyter-widgets/controls", "_view_module_version": "1.5.0", "_view_name": "HTMLView", "description": "", "description_tooltip": null, "layout": "IPY_MODEL_149e60260f0b49268d9e6ce0c8461dce", "placeholder": "\u200b", "style": "IPY_MODEL_68071ef4d8ad4ce782ddc9b045860848", "value": " 83.3M/83.3M [00:00&lt;00:00, 116MB/s]"}}, "44310773133f44999edfef5f5ff34fbb": {"model_module": "@jupyter-widgets/controls", "model_module_version": "1.5.0", "model_name": "HBoxModel", "state": {"_dom_classes": [], "_model_module": "@jupyter-widgets/controls", "_model_module_version": "1.5.0", "_model_name": "HBoxModel", "_view_count": null, "_view_module": "@jupyter-widgets/controls", "_view_module_version": "1.5.0", "_view_name": "HBoxView", "box_style": "", "children": ["IPY_MODEL_13c1b0b60dc243baa0859d1c6bd17129", "IPY_MODEL_19703cdff07249fab2d78d23d35192f3"], "layout": "IPY_MODEL_ef696dddbf0e4bdf851a3c08acd0a3c9"}}, "68071ef4d8ad4ce782ddc9b045860848": {"model_module": "@jupyter-widgets/controls", "model_module_version": "1.5.0", "model_name": "DescriptionStyleModel", "state": {"_model_module": "@jupyter-widgets/controls", "_model_module_version": "1.5.0", "_model_name": "DescriptionStyleModel", "_view_count": null, "_view_module": "@jupyter-widgets/base", "_view_module_version": "1.2.0", "_view_name": "StyleView", "description_width": ""}}, "6ec176035b11447582886c6d337eeff6": {"model_module": "@jupyter-widgets/base", "model_module_version": "1.2.0", "model_name": "LayoutModel", "state": {"_model_module": "@jupyter-widgets/base", "_model_module_version": "1.2.0", "_model_name": "LayoutModel", "_view_count": null, "_view_module": "@jupyter-widgets/base", "_view_module_version": "1.2.0", "_view_name": "LayoutView", "align_content": null, "align_items": null, "align_self": null, "border": null, "bottom": null, "display": null, "flex": null, "flex_flow": null, "grid_area": null, "grid_auto_columns": null, "grid_auto_flow": null, "grid_auto_rows": null, "grid_column": null, "grid_gap": null, "grid_row": null, "grid_template_areas": null, "grid_template_columns": null, "grid_template_rows": null, "height": null, "justify_content": null, "justify_items": null, "left": null, "margin": null, "max_height": null, "max_width": null, "min_height": null, "min_width": null, "object_fit": null, "object_position": null, "order": null, "overflow": null, "overflow_x": null, "overflow_y": null, "padding": null, "right": null, "top": null, "visibility": null, "width": null}}, "b89c0127f3a94527b58b7d710c43e951": {"model_module": "@jupyter-widgets/controls", "model_module_version": "1.5.0", "model_name": "ProgressStyleModel", "state": {"_model_module": "@jupyter-widgets/controls", "_model_module_version": "1.5.0", "_model_name": "ProgressStyleModel", "_view_count": null, "_view_module": "@jupyter-widgets/base", "_view_module_version": "1.2.0", "_view_name": "StyleView", "bar_color": null, "description_width": "initial"}}, "ef696dddbf0e4bdf851a3c08acd0a3c9": {"model_module": "@jupyter-widgets/base", "model_module_version": "1.2.0", "model_name": "LayoutModel", "state": {"_model_module": "@jupyter-widgets/base", "_model_module_version": "1.2.0", "_model_name": "LayoutModel", "_view_count": null, "_view_module": "@jupyter-widgets/base", "_view_module_version": "1.2.0", "_view_name": "LayoutView", "align_content": null, "align_items": null, "align_self": null, "border": null, "bottom": null, "display": null, "flex": null, "flex_flow": null, "grid_area": null, "grid_auto_columns": null, "grid_auto_flow": null, "grid_auto_rows": null, "grid_column": null, "grid_gap": null, "grid_row": null, "grid_template_areas": null, "grid_template_columns": null, "grid_template_rows": null, "height": null, "justify_content": null, "justify_items": null, "left": null, "margin": null, "max_height": null, "max_width": null, "min_height": null, "min_width": null, "object_fit": null, "object_position": null, "order": null, "overflow": null, "overflow_x": null, "overflow_y": null, "padding": null, "right": null, "top": null, "visibility": null, "width": null}}}, "version_major": 2, "version_minor": 0}
+</script>]]></content><author><name>Nikita Kozodoi</name></author><category term="python" /><category term="deep learning" /><category term="pytorch" /><category term="tutorial" /><summary type="html"><![CDATA[Increasing batch size to overcome memory constraints]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kozodoi.me/images/posts/accumulation.png" /><media:content medium="image" url="https://kozodoi.me/images/posts/accumulation.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
