@@ -7,7 +7,7 @@ image: ../images/menu/photo_portfolio.jpg
 
 <meta charset="UTF-8">
 
-<img src="https://kozodoi.me/images/menu/photo_portfolio.jpg" style="width:0%; height:0%; top:0; bottom:0">
+<img src="../images/menu/photo_portfolio.jpg" style="width:0%; height:0%; top:0; bottom:0">
 
 <div class="container">
   <div style="width:100%;height:0; padding-top:50%;position:relative;">
@@ -34,9 +34,9 @@ image: ../images/menu/photo_portfolio.jpg
   <p>My portfolio features the following projects:</p>
 
   <ul style="margin-top: -10px;">
-  <li> &#128214; <a href="#PROJECT_1">Text reading complexity prediction with transformers </a></li>
-  <li> &#129516; <a href="#PROJECT_3">Image-to-text translation of chemical structures with deep learning </a></li>
-  <li> &#128200; <a href="#PROJECT_2">Fair machine learning in credit scoring applications </a></li>
+  <li> &#128214; <a href="#PROJECT_1">Transformer from Scratch(Implementing ML Papers)</a></li>
+  <li> &#129516; <a href="#PROJECT_3">Finetuning Minstral 7b for Curriculam Based Question Generation</a></li>
+  <li> &#128200; <a href="#PROJECT_2">Retrieval Augmented Generation Model from LLaMa-2</a></li>
   </ul>
 
   <p>Scroll down to see more generative AI and ML projects grouped by application domains. Click "read more" to see project summaries, and follow GitHub links for code and documentation. </p>
@@ -44,7 +44,7 @@ image: ../images/menu/photo_portfolio.jpg
 </div>
 
 
-<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------
 
 <hr style="height:1px; visibility:hidden;" />
 
@@ -73,7 +73,7 @@ image: ../images/menu/photo_portfolio.jpg
   <button class="btn" onclick="window.open('https://kozodoi.me/blog/20211121/text-readability')" type="button">&#128203; Blog post</button>
 </div>
 
-<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------
 
 <br>
 
@@ -100,7 +100,7 @@ image: ../images/menu/photo_portfolio.jpg
   <button class="btn" onclick="window.open('https://www.kaggle.com/c/bms-molecular-translation/discussion/243845')" type="button">&#128214; Writeup on Kaggle</button>
 </div>
 
-<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------
 
 <br>
 
@@ -133,7 +133,7 @@ image: ../images/menu/photo_portfolio.jpg
   <button class="btn" onclick="window.open('https://arxiv.org/abs/2103.01907')" type="button">&#128213; Paper</button>
 </div>
 
-<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------
 
 <hr style="height:10pt; visibility:hidden;" />
 
@@ -172,12 +172,11 @@ Want to see more? Check out my further ML projects grouped by application areas 
   </div>
 </div>
 
-<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------
 
 <div>
   <button class="project_accordion">Computer Vision</button>
   <div class="project_panel">
-
     <div class="card">
       <h3>Pet Popularity Prediction</h3>
       <img src="https://i.postimg.cc/43yC8KyY/header.png" alt="Notebook" style="width:100%">
@@ -189,7 +188,7 @@ Want to see more? Check out my further ML projects grouped by application areas 
       <button class="btn" onclick="window.open('https://github.com/kozodoi/Pet_Pawpularity')" type="button">&#128187; GitHub repo</button>
       <button class="btn" onclick="window.open('https://kozodoi-pet-pawpularity-web-app-kvzxqr.streamlit.app')" type="button">&#128202; Web app</button>
     </div>
-
+    
     <br>
 
     <div class="card">
@@ -237,7 +236,7 @@ Want to see more? Check out my further ML projects grouped by application areas 
   </div>
 </div>
 
-<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------
 
 <div>
   <button class="project_accordion">Tabular Data and Graph ML</button>
@@ -283,7 +282,7 @@ Want to see more? Check out my further ML projects grouped by application areas 
   </div>
 </div>
 
-<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------
 
 <div>
   <button class="project_accordion">Software Packages</button>
@@ -317,7 +316,7 @@ Want to see more? Check out my further ML projects grouped by application areas 
   </div>
 </div>
 
-<!----------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------
 
 <script>
 var acc = document.getElementsByClassName("project_accordion");
@@ -335,3 +334,4 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 </script>
+-->
