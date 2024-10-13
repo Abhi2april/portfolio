@@ -83,3 +83,4 @@ My Kaggle notebooks that received the most upvotes from the community.
 - &#128293; **[LightGBM on Meta-Features](https://www.kaggle.com/kozodoi/lightgbm-on-meta-features)**: classified pulmonary embolism with features extracted from X-rays
 - &#128293; **[EfficientNet + Multi-Layer LSTM](https://www.kaggle.com/kozodoi/efficientnet-multi-layer-lstm-training)**: translated molecule images to chemical formulas with deep learning
 - &#128293; **[Stack Them All!](https://www.kaggle.com/kozodoi/14th-place-solution-stack-them-all)**: stacking ensemble pipeline for leaf disease classification with CNN models
+-->
