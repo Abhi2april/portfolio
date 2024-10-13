@@ -35,8 +35,9 @@ image: ../images/menu/photo_portfolio.jpg
 
   <ul style="margin-top: -10px;">
   <li> &#128214; <a href="#PROJECT_1">Transformer from Scratch(Implementing ML Papers)</a></li>
-  <li> &#129516; <a href="#PROJECT_3">Finetuning Minstral 7b for Curriculam Based Question Generation</a></li>
-  <li> &#128200; <a href="#PROJECT_2">Retrieval Augmented Generation Model from LLaMa-2</a></li>
+  <li> &#129516; <a href="#PROJECT_2">Finetuning Minstral 7b for Curriculam Based Question Generation</a></li>
+  <li> &#128200; <a href="#PROJECT_3">Retrieval Augmented Generation Model from LLaMa-2</a></li>
+  <li> &#128200; <a href="#PROJECT_3">Disease Recognizer using word vector embeddings</a></li>
   </ul>
 
   <p>Scroll down to see more generative AI and ML projects grouped by application domains. Click "read more" to see project summaries, and follow GitHub links for code and documentation. </p>
