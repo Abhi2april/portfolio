@@ -32,7 +32,7 @@ In my free time, I enjoy playing arcade and challenging myself in lifting weight
 <!----------------------------------------------------------------------------->
 ## About this website
 
-This website hosts [my blog](https://abhi2april.github.io/website01/blog/), where I share interesting project findings. All opinions published here are my own. The website includes different sections featuring my work:
+This website hosts my personal portfolio including all kaggle competetions, projects' notebook and research papers, where I share interesting project findings. All opinions published here are my own. The website includes different sections featuring my work:
 
 - &#128193; [my portfolio](https://abhi2april.github.io/website01/portfolio/) with ML projects on different topics
 - &#128218; [my ML publications](https://abhi2april.github.io/website01/papers/) with paper abstracts and full-text PDFs
