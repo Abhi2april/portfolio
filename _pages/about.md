@@ -34,10 +34,10 @@ In my free time, I enjoy playing arcade and challenging myself in lifting weight
 
 This website hosts my personal portfolio including all kaggle competetions, projects' notebook and research papers, where I share interesting project findings. All opinions published here are my own. The website includes different sections featuring my work:
 
-- &#128193; [my portfolio](https://abhi2april.github.io/website01/portfolio/) with ML projects on different topics
-- &#128218; [my ML publications](https://abhi2april.github.io/website01/papers/) with paper abstracts and full-text PDFs
-- &#129351; [my Kaggle solutions](https://abhi2april.github.io/website01/kaggle/) with links to code and write-ups
-- &#128421; [my certifications](https://abhi2april.github.io/website01/certifications/) with links to certificates and completed courses
+- &#128193; [my portfolio](https://abhi2april.github.io/portfolio/portfolio/) with ML projects on different topics
+- &#128218; [my ML publications](https://abhi2april.github.io/portfolio/papers/) with paper abstracts and full-text PDFs
+- &#129351; [my Kaggle solutions](https://abhi2april.github.io/portfolio/kaggle/) with links to code and write-ups
+- &#128421; [my certifications](https://abhi2april.github.io/portfolio/certifications/) with links to certificates and completed courses
 
 
 <hr style="height:1px; visibility:hidden;" />
