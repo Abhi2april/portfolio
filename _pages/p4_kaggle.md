@@ -12,14 +12,14 @@ permalink: /kaggle/
   </div>  
   <div class="content">
     <h1>Kaggle</h1>
-    <p><span class="cover-desc" style="color:var(--page-desc-color)">I enjoy taking part at ML competitions on Kaggle. This page summarizes my achievements and provides links to blog posts, writeups and GitHub repos with my solutions. Check out my <a href="https://www.kaggle.com/kozodoi">Kaggle profile</a> to see more.</span></p>
+    <p><span class="cover-desc" style="color:var(--page-desc-color)">Started taking  part at ML competitions on Kaggle from 2024. This page summarizes my participations, writeups and GitHub repos with my solutions. Check out my <a href="https://www.kaggle.com/abhishekxsingh">Kaggle profile</a> to see more.</span></p>
   </div>
 </div>
 
-<p><span class="page-desc">I enjoy taking part at ML competitions on Kaggle. This page summarizes my achievements and provides links to blog posts, writeups and GitHub repos with my solutions. Check out my <a href="https://www.kaggle.com/kozodoi">Kaggle profile</a> to see more.</span></p>
+<p><span class="page-desc">Started taking  part at ML competitions on Kaggle from 2024. This page summarizes my participations, writeups and GitHub repos with my solutions. Check out my <a href="https://www.kaggle.com/abhishekxsingh">Kaggle profile</a> to see more.</span></p>
 
 
-<!----------------------------------------------------------------------------->
+<!-----------------------------------------------------------------------------
 ## Overall rank
 
 I am in the top-1% Kaggle users in Competitions, Notebooks, Datasets and Discussion. My highest user ranks are:
@@ -32,7 +32,7 @@ I am in the top-1% Kaggle users in Competitions, Notebooks, Datasets and Discuss
 <hr style="height:1px;border-width:0;color:rgb(50,50,50);background-color:rgb(50,50,50)">
 
 
-<!----------------------------------------------------------------------------->
+-----------------------------------------------------------------------------
 ## Competitions
 
 My medals are grouped by application areas. Follow the links for summaries, code and documentation.
@@ -71,7 +71,7 @@ My medals are grouped by application areas. Follow the links for summaries, code
 - &#129353; **Riiid! Answer Correctness Prediction**, *top-7%*. Predicted  test answer correctness with gradient boosting
 
 
-<!----------------------------------------------------------------------------->
+-----------------------------------------------------------------------------
 
 <hr style="height:1px; visibility:hidden;" />
 <hr style="height:1px;border-width:0;color:rgb(50,50,50);background-color:rgb(50,50,50)">
