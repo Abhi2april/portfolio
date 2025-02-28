@@ -1,4 +1,4 @@
-# kozodoi.me: Blog on AI, ML and other cool acronyms
+# Abhishek's: Blog on AI, ML and other cool acronyms
 
 
 ---
